@@ -39,7 +39,7 @@
 
 1. [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
 
-# Other Related Paper Lists
+## Other Related Paper Lists
 1. [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
 
 1. [rlczddl/awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
