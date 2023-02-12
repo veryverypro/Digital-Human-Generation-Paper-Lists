@@ -26,6 +26,8 @@
 1. [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf). CVPR (Oral), 2020. [[Page]](https://shunsukesaito.github.io/PIFuHD) [[Code]](https://github.com/facebookresearch/pifuhd)
 
 ## Voxels
+1. [BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/abs/1804.04875v3). ECCV, 2018. [[Page]](https://www.di.ens.fr/willow/research/bodynet/) [[Code]](https://github.com/gulvarol/bodynet)
+
 1. [LEAP: Learning Articulated Occupancy of People](https://arxiv.org/abs/2104.06849). CVPR, 2021. [[Page]](https://neuralbodies.github.io/LEAP) [[Code]](https://github.com/neuralbodies/leap)
 
 ## Implicit Fields
