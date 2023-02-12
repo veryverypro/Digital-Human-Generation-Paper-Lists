@@ -43,3 +43,5 @@
 1. [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
 
 1. [rlczddl/awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
+
+1. [weihaox/awesome-clothed-human](https://github.com/weihaox/awesome-clothed-human)
