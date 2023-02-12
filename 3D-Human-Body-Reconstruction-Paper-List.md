@@ -1,13 +1,13 @@
 # 3D Human Body Reconstruction Paper List
-- [Naked Body](#naked-body)
-- [Clothed Body](#clothed-body)
-  - [Meshes](#meshes)  
+- [Naked Human](#naked-human)
+  - [Meshes](#meshes)
+- [Clothed Human](#clothed-human)
   - [Voxels](#voxels)
   - [Implicit Fields](#implicit-fields)
 - [Other Related Paper Lists](#other-related-paper-lists)
 
 
-## Naked Body
+## Naked Human
 ### Meshes
 1. [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [[Page]](https://smpl.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplx)
 
@@ -26,7 +26,7 @@
 1. [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861). ECCV, 2022. [[Page]](https://supr.is.tue.mpg.de/) [[Code]](https://github.com/ahmedosman/SUPR)
 
 
-## Clothed Body
+## Clothed Human
 ### Voxels
 1. [BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/abs/1804.04875v3). ECCV, 2018. [[Page]](https://www.di.ens.fr/willow/research/bodynet/) [[Code]](https://github.com/gulvarol/bodynet)
 
