@@ -8,6 +8,7 @@
 
 ## Fundamentals
 1. [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822). CVPR, 2019. [[Page]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Code]](https://github.com/czq142857/implicit-decoder)
+1. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103). CVPR, 2019. [[Code]](https://github.com/facebookresearch/DeepSDF)
 
 ## Naked Human
 ### Meshes
