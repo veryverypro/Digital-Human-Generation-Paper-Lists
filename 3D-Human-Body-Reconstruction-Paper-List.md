@@ -37,6 +37,10 @@
 
 1. [LEAP: Learning Articulated Occupancy of People](https://arxiv.org/abs/2104.06849). CVPR, 2021. [[Page]](https://neuralbodies.github.io/LEAP) [[Code]](https://github.com/neuralbodies/leap)
 
+### Depth Maps
+1. [Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images](https://arxiv.org/abs/1908.00439). ICCV, 2019.
+1. [FACSIMILE: Fast and Accurate Scans From an Image in Less Than a Second](https://arxiv.org/abs/1909.00883). ICCV, 2019.
+1. [A Neural Network for Detailed Human Depth Estimation from a Single Image](https://arxiv.org/abs/1910.01275). ICCV, 2019. [[Code]](https://github.com/sfu-gruvi-3dv/deep_human)
 
 ### Implicit Fields
 1. **[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). ICCV, 2019. [[Page]](https://shunsukesaito.github.io/PIFu) [[Code]](https://github.com/shunsukesaito/PIFu)**
