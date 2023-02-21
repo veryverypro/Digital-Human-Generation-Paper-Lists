@@ -31,7 +31,7 @@
 
 1. [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861). ECCV, 2022. [[Page]](https://supr.is.tue.mpg.de/) [[Code]](https://github.com/ahmedosman/SUPR)
 
-### Clothing Contition on SMPLs
+## Clothing Contition on SMPLs
 1. [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885). CVPR, 2019.
 
 
