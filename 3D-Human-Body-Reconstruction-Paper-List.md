@@ -10,13 +10,16 @@
 - [Other Related Paper Lists](#other-related-paper-lists)
 
 ## Fundamentals
-1. **[Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822). CVPR, 2019. [[Page]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Code]](https://github.com/czq142857/implicit-decoder)**
+1. [Marching Cubes: A high resolution 3d surface construction algorithm](http://fab.cba.mit.edu/classes/S62.12/docs/Lorensen_marching_cubes.pdf). SigGraph, 1987.
+
+1. [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822). CVPR, 2019. [[Page]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Code]](https://github.com/czq142857/implicit-decoder)
 
 1. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103). CVPR, 2019. [[Code]](https://github.com/facebookresearch/DeepSDF)
 
 1. [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://arxiv.org/abs/1812.03828). CVPR, 2019. [[Page]](https://avg.is.mpg.de/publications/occupancy-networks) [[Code]](https://github.com/autonomousvision/occupancy_networks)
 
-1. [Marching Cubes: A high resolution 3d surface construction algorithm](http://fab.cba.mit.edu/classes/S62.12/docs/Lorensen_marching_cubes.pdf). SigGraph, 1987.
+1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934). ECCV, 2020. [[Page]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
+
 
 ## Naked Human
 1. [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [[Page]](https://smpl.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplx)
