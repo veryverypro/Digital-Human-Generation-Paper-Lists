@@ -33,7 +33,13 @@
 
 ## Clothing Contition on SMPLs
 1. [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885). CVPR, 2019.
-
+1. [Detailed Human Avatars from Monocular Video](https://arxiv.org/abs/1808.01338). 3DV, 2018.
+1. [Video Based Reconstruction of 3D People Models](https://arxiv.org/abs/1803.04758). CVPR, 2018.
+1. [Tex2Shape: Detailed Full Human Body Geometry From a Single Image](https://arxiv.org/abs/1904.08645). ICCV, 2019.
+1. [360-Degree Textures of People in Clothing from a Single Image](https://arxiv.org/abs/1908.07117). 3DV, 2019.
+1. [ClothCap: Seamless 4D Clothing Capture and Retargeting](https://ps.is.mpg.de/uploads_file/attachment/attachment/374/clothcap.pdf). TOG, 2017.
+1. [MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](https://arxiv.org/abs/2009.10711). 3DV, 2020.
+1. [Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation](https://arxiv.org/abs/1904.10506). CVPR, 2019.
 
 ## Non-Parametric Clothed Human
 ### Voxels
