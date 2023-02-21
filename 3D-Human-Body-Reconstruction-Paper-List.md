@@ -10,8 +10,11 @@
 
 ## Fundamentals
 1. **[Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822). CVPR, 2019. [[Page]](https://www.sfu.ca/~zhiqinc/imgan/Readme.html) [[Code]](https://github.com/czq142857/implicit-decoder)**
+
 1. [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103). CVPR, 2019. [[Code]](https://github.com/facebookresearch/DeepSDF)
+
 1. [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://arxiv.org/abs/1812.03828). CVPR, 2019. [[Page]](https://avg.is.mpg.de/publications/occupancy-networks) [[Code]](https://github.com/autonomousvision/occupancy_networks)
+
 1. [Marching Cubes: A high resolution 3d surface construction algorithm](http://fab.cba.mit.edu/classes/S62.12/docs/Lorensen_marching_cubes.pdf). SigGraph, 1987.
 
 ## Naked Human
@@ -33,12 +36,19 @@
 
 ## Clothing Contition on SMPLs
 1. [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885). CVPR, 2019.
+
 1. [Detailed Human Avatars from Monocular Video](https://arxiv.org/abs/1808.01338). 3DV, 2018.
+
 1. [Video Based Reconstruction of 3D People Models](https://arxiv.org/abs/1803.04758). CVPR, 2018.
+
 1. [Tex2Shape: Detailed Full Human Body Geometry From a Single Image](https://arxiv.org/abs/1904.08645). ICCV, 2019.
+
 1. [360-Degree Textures of People in Clothing from a Single Image](https://arxiv.org/abs/1908.07117). 3DV, 2019.
+
 1. [ClothCap: Seamless 4D Clothing Capture and Retargeting](https://ps.is.mpg.de/uploads_file/attachment/attachment/374/clothcap.pdf). TOG, 2017.
+
 1. [MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](https://arxiv.org/abs/2009.10711). 3DV, 2020.
+
 1. [Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation](https://arxiv.org/abs/1904.10506). CVPR, 2019.
 
 ## Non-Parametric Clothed Human
@@ -49,7 +59,9 @@
 
 ### Depth Maps
 1. [Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images](https://arxiv.org/abs/1908.00439). ICCV, 2019.
+
 1. [FACSIMILE: Fast and Accurate Scans From an Image in Less Than a Second](https://arxiv.org/abs/1909.00883). ICCV, 2019.
+
 1. [A Neural Network for Detailed Human Depth Estimation from a Single Image](https://arxiv.org/abs/1910.01275). ICCV, 2019. [[Code]](https://github.com/sfu-gruvi-3dv/deep_human)
 
 ### Implicit Fields
