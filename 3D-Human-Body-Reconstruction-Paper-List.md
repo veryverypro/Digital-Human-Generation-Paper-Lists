@@ -1,11 +1,12 @@
 # 3D Human Body Reconstruction Paper List
 - [Fundamentals](#fundamentals)
 - [Naked Human](#naked-human)
-- [Clothing Contition on SMPLs](#clothing-condition-on-smpls)
+- [Clothing Condition on SMPLs](#clothing-condition-on-smpls)
 - [Non-Parametric Clothed Human](#non-parametric-clothed-human)
   - [Voxels](#voxels)
   - [Implicit Fields](#implicit-fields)
   - [Animatable](#animatable)
+  - [Nerfs](#nerfs)
 - [Other Related Paper Lists](#other-related-paper-lists)
 
 ## Fundamentals
@@ -34,7 +35,7 @@
 
 1. [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861). ECCV, 2022. [[Page]](https://supr.is.tue.mpg.de/) [[Code]](https://github.com/ahmedosman/SUPR)
 
-## Clothing Contition on SMPLs
+## Clothing Condition on SMPLs
 1. [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885). CVPR, 2019.
 
 1. [Detailed Human Avatars from Monocular Video](https://arxiv.org/abs/1808.01338). 3DV, 2018.
@@ -71,29 +72,9 @@
 
 1. [Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion](https://arxiv.org/abs/2003.01456). CVPR, 2020. [[Page]](http://virtualhumans.mpi-inf.mpg.de/ifnets) [[Code]](https://github.com/jchibane/if-net)
 
-1. [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). CVPR, 2021. [[Page]](https://zju3dv.github.io/neuralbody) [[Code]](https://github.com/zju3dv/neuralbody)
-
 1. [LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies](https://arxiv.org/abs/2111.15113). 3DV, 2021. [[Page]](https://latenthuman.github.io/) [[Code]](https://github.com/latenthuman/latenthuman)
 
-1. [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://arxiv.org/abs/2106.02019). ArXiv, 2021.  
-
-1. [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/abs/2109.07448). ArXiv, 2021. [[Page]](https://youngjoongunc.github.io/nhp) 
-
 1. [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363). CVPR, 2021. [[Page]](http://saic-violet.github.io/style-people) [[Code]](https://github.com/saic-vul/style-people)
-
-1. [HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs](https://arxiv.org/abs/2112.02789). CVPR, 2022. [[Page]](https://zhaofuq.github.io/humannerf/) [[Code]](https://github.com/zhaofuq/HumanNeRF)
-
-1. [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575). ECCV, 2022.  [[Code]](https://github.com/apple/ml-neuman)
-
-1. [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
-
-1. [Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
-
-1. [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://arxiv.org/abs/2203.14402). ArXiv, 2022. [[Page]](https://fanegg.github.io/UV-Volumes/) [[Code]](https://github.com/fanegg/UV-Volumes)
-
-1. [DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [[Page]](http://www.liuyebin.com/dbfield/dbfield.html) 
-
-1. [Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [[Page]](https://zhaofuq.github.io/NeuralAM/) [[Code]](https://github.com/zhaofuq/Instant-NSR)
 
 ### Animatable
 1. [ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [[Page]](https://icon.is.tue.mpg.de/) [[Code]](https://github.com/YuliangXiu/ICON)
@@ -102,6 +83,27 @@
 
 1. [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571). CVPR, 2021.
 
+### Nerfs
+1. [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). CVPR, 2021. [[Page]](https://zju3dv.github.io/neuralbody) [[Code]](https://github.com/zju3dv/neuralbody)
+
+1. [Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
+
+1. [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://arxiv.org/abs/2106.02019). ArXiv, 2021.  
+
+1. [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/abs/2109.07448). ArXiv, 2021. [[Page]](https://youngjoongunc.github.io/nhp) 
+
+1. [HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs](https://arxiv.org/abs/2112.02789). CVPR, 2022. [[Page]](https://zhaofuq.github.io/humannerf/) [[Code]](https://github.com/zhaofuq/HumanNeRF)
+
+1. [Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [[Page]](https://zhaofuq.github.io/NeuralAM/) [[Code]](https://github.com/zhaofuq/Instant-NSR)
+
+1. [DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [[Page]](http://www.liuyebin.com/dbfield/dbfield.html) 
+
+1. [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575). ECCV, 2022.  [[Code]](https://github.com/apple/ml-neuman)
+
+1. [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
+
+### Editable
+1. [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://arxiv.org/abs/2203.14402). ArXiv, 2022. [[Page]](https://fanegg.github.io/UV-Volumes/) [[Code]](https://github.com/fanegg/UV-Volumes)
 
 ## Other Related Paper Lists
 1. [3DFaceBody/awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
