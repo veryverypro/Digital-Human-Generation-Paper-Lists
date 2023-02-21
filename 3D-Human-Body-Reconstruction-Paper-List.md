@@ -73,6 +73,7 @@
 
 1. [Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [[Page]](https://zhaofuq.github.io/NeuralAM/) [[Code]](https://github.com/zhaofuq/Instant-NSR)
 
+### Animatable
 1. [ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [[Page]](https://icon.is.tue.mpg.de/) [[Code]](https://github.com/YuliangXiu/ICON)
 
 ## Other Related Paper Lists
