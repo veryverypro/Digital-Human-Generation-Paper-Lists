@@ -1,9 +1,11 @@
 # 3D Human Body Reconstruction Paper List
+- [Fundamentals](#fundamentals)
 - [Naked Human](#naked-human)
-  - [Meshes](#meshes)
-- [Clothed Human](#clothed-human)
+- [Clothing Contition on SMPLs](#clothing-condition-on-smpls)
+- [Non-Parametric Clothed Human](#non-parametric-clothed-human)
   - [Voxels](#voxels)
   - [Implicit Fields](#implicit-fields)
+  - [Animatable](#animatable)
 - [Other Related Paper Lists](#other-related-paper-lists)
 
 ## Fundamentals
@@ -13,7 +15,6 @@
 1. [Marching Cubes: A high resolution 3d surface construction algorithm](http://fab.cba.mit.edu/classes/S62.12/docs/Lorensen_marching_cubes.pdf). SigGraph, 1987.
 
 ## Naked Human
-### Meshes
 1. [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [[Page]](https://smpl.is.tue.mpg.de) [[Code]](https://github.com/vchoutas/smplx)
 
 1. [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [[Page]](https://akanazawa.github.io/hmr) [[Code]](https://github.com/akanazawa/hmr)
@@ -30,8 +31,11 @@
 
 1. [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861). ECCV, 2022. [[Page]](https://supr.is.tue.mpg.de/) [[Code]](https://github.com/ahmedosman/SUPR)
 
+### Clothing Contition on SMPLs
+1. [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885). CVPR, 2019.
 
-## Clothed Human
+
+## Non-Parametric Clothed Human
 ### Voxels
 1. **[BodyNet: Volumetric Inference of 3D Human Body Shapes](https://arxiv.org/abs/1804.04875v3). ECCV, 2018. [[Page]](https://www.di.ens.fr/willow/research/bodynet/) [[Code]](https://github.com/gulvarol/bodynet)**
 
