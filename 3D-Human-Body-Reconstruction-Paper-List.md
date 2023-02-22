@@ -89,21 +89,28 @@
 ### Nerfs
 1. [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). CVPR, 2021. [[Page]](https://zju3dv.github.io/neuralbody) [[Code]](https://github.com/zju3dv/neuralbody)
 
-1. [Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
+1. [H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion](https://arxiv.org/abs/2110.13746). NIPS, 2021.
 
-1. [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://arxiv.org/abs/2106.02019). ArXiv, 2021.  
+1. [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://arxiv.org/abs/2105.02872). ICCV, 2021. [[Page]](https://zju3dv.github.io/animatable_nerf) [[Code]](https://github.com/zju3dv/animatable_nerf)
 
 1. [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/abs/2109.07448). ArXiv, 2021. [[Page]](https://youngjoongunc.github.io/nhp) 
 
-1. [HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs](https://arxiv.org/abs/2112.02789). CVPR, 2022. [[Page]](https://zhaofuq.github.io/humannerf/) [[Code]](https://github.com/zhaofuq/HumanNeRF)
+1. [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://arxiv.org/abs/2106.02019). ArXiv, 2021.  
 
-1. [Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [[Page]](https://zhaofuq.github.io/NeuralAM/) [[Code]](https://github.com/zhaofuq/Instant-NSR)
+1. [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://arxiv.org/abs/2102.06199). NIPS, 2021.
+
+1. [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/abs/2201.04127). CVPR, 2022.
 
 1. [DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [[Page]](http://www.liuyebin.com/dbfield/dbfield.html) 
 
-1. [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575). ECCV, 2022.  [[Code]](https://github.com/apple/ml-neuman)
+### Heads
+1. [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078). ICCV, 2021.
 
-1. [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [[Page]](https://liuyebin.com/slrf/slrf.html) 
+1. [Learning Compositional Radiance Fields of Dynamic Human Heads](https://arxiv.org/abs/2012.09955). CVPR, 2021.
+
+1. [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/abs/2112.05637). CVPR, 2022.
+
+1. [FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913). FG, 2023.
 
 ### Editable
 1. [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://arxiv.org/abs/2203.14402). ArXiv, 2022. [[Page]](https://fanegg.github.io/UV-Volumes/) [[Code]](https://github.com/fanegg/UV-Volumes)
